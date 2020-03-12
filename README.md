@@ -16,7 +16,8 @@ Passo 2:
   ## Classe Pessoas
   - Metodo Construtore de Pessoa , Inicializa Pessoa , Calc_Idade , GetIdade , GetDia , GetMes ,GetAno , InformaDados.
   ## Classe listaPessoas
-  -Metodos Construtores de Pessoa; Inicializa listaPessoa;registraPessoa; mostraDados; ListaCheia;
+  - Obs : Tive essa ideia para registrar mais pessoas no sistema.
+  -Metodos Construtores de listaPessoa; Inicializa listaPessoa;registraPessoa; mostraDados; ListaCheia;
 
   
 
