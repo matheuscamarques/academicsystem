@@ -9,9 +9,9 @@ Aluno Matheus de Camargo Marques . CA 2088932
 
 
 Obs : Deixar o arquivo make executavel ; 
-
+Sistema Operacional : Linux Ubunto.
 Passo 1: 
-# #chmod + make
+# #chmod +x make
 Passo 2:
 # Executar no terminal usando ./make ;
 
