@@ -32,4 +32,4 @@ Passo 2:
   - Implementação da lista circular na classe ListaPessoas.
 
 
-# OBSERVAÇÕES DO PROFESSOR
+# Observações do Professor.
